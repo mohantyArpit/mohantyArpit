@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on HTML CSS
 - 📫 How to reach me arpitjga@gmail.com
+- I love going to the beach and snorkelling 🥽🏖🌊
 
 <!---
 mohantyArpit/mohantyArpit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
